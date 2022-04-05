@@ -1,4 +1,4 @@
-package interfaces;
+package com.company.interfaces;
 
 @FunctionalInterface
 public interface OnTaskDoneListener {
